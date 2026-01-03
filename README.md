@@ -1,2 +1,3 @@
 # typst-templates
-A set of templates for creating Typst documents
+
+This repo contains templates I have been experimenting with to create Typst documents.
